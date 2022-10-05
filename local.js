@@ -1,5 +1,6 @@
 const prompt = require("prompt-sync")();
 
+
 function greet(){
     console.log('hello' + name +':) ');
 }
